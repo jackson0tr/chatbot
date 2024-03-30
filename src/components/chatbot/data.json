@@ -1,0 +1,66 @@
+[
+    {
+      "question": "What is your return policy?",
+      "answer": "Our return policy allows for returns up to 30 days after purchase."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "You can track your order by logging into your account or using the tracking number provided in your shipping confirmation email."
+    },
+    {
+      "question": "What is your return policy?",
+      "answer": "Our return policy allows for returns up to 30 days after purchase."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "You can track your order by logging into your account or using the tracking number provided in your shipping confirmation email."
+    },
+    {
+      "tag": "first step",
+      "question": "What is the first stage in writing theses?",
+      "answer": "Cover page"
+  },
+  {
+      "tag": "cover page",
+      "question": "how to write cover page",
+      "answer":  "first step: university logo, second step: university name, third step: college name, fourth step: department name, fifth step: course name, sixth step: project title, seventh step: students name and their numbers, eighth step: supervisor name, ninth step: university place and country, tenth step: thesis submission date"
+    
+  },
+  {
+      "tag": "title",
+      "question": "how to write title",
+      "answer": "title begins with strong ing verbs like DESINING, DEVELOPING, and avoid MAKING and DOING, write it with upper case letters, must contain target group and place, Highlight it with any highlighting technique like bold, italic and color"
+
+  },
+  {
+      "tags": "students name",
+      "question": "how to write students names",
+      "answer": "Students names must be ordered alphabetically and appear before supervisor name"
+  },
+  {
+      "tags": "date",
+      "question": " how to write date",
+      "answer": "you should put the data when you submit thesis to your supervisor, you can write the full name of the month or its abbreviation like this 14 March 2024 or 14 Mar. 2024"
+  },
+  {
+      "tags": "second page",
+      "question": "What is the second page in writing theses",
+      "answer": "Acknowledgement page"
+  },
+  {
+      "tags": "acknowledgement",
+      "question": "what is acknowledgment",
+      "answer": "The acknowledgment section is an opportunity for the author to recognize and show appreciation for the contributions of others, acknowledging their support and assistance in bringing the thesis to fruition. However, it's important to maintain professionalism and avoid overly personal or informal language in this section."
+  },
+  {
+      "tag": "acknowledgement example",
+      "question":  "give me an example for acknowledgement page",
+      "answer": "We begin by thanking, first and foremost, God Almighty who helped us complete this thesis.\n We also extend our thanks to our family who have been our primary supporter in all circumstances and times.\nSpecial thanks and appreciation go to the head of our department and our project supervisor, Dr. Thaer Sammar, who gave us his experience and guided us,\n and he was the best supervisor and guide.We also thank the distinguished lecturers and faculty members and everyone\n who contributed to us reaching this stage and had a good impact on our path.In the end, we would like to thank the group members for their respect, cooperation, helping each other with kindness, and completing their work efficiently"
+  },
+  {
+      "tags": "third page",
+      "question": "What is the third page in writing thesis",
+      "answer": "Abstract page"
+  }
+  ]
+  
